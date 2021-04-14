@@ -1,0 +1,1 @@
+This knowledge graph explores the similarity across the following compliance frameworks:  GDPR, BSIMM, NIST, and CWE. 

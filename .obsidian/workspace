@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "4d1c3fe33c3b99d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9ad884c0fe1ef65",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Art. 19 GDPR.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "544a630e8724209e",
+    "type": "split",
+    "children": [
+      {
+        "id": "96e5906d722853cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4c237057b842852",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a9fd0a00c75aa46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224
+  },
+  "right": {
+    "id": "50cdb0926752336b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ae22407e23d3bba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bccff271180aef28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Art. 19 GDPR.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c0c341e3d581ac1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273
+  },
+  "active": "d9ad884c0fe1ef65",
+  "lastOpenFiles": [
+    "Art. 19 GDPR.md",
+    "Art. 18 GDPR.md",
+    "Art. 16 GDPR.md",
+    "Art. 17 GDPR.md",
+    "Art. 9 GDPR.md",
+    "Art. 8 GDPR.md",
+    "Art. 7 GDPR.md",
+    "Art. 4 GDPR.md",
+    "Art. 3 GDPR.md",
+    "Art. 20 GDPR.md"
+  ]
+}
