@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Art. 19 GDPR.md",
+            "file": "Art. 26 GDPR.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#processor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art. 19 GDPR.md",
+                "file": "Art. 26 GDPR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "d9ad884c0fe1ef65",
   "lastOpenFiles": [
+    "Art. 26 GDPR.md",
+    "Art. 25 GDPR.md",
+    "Art. 24 GDPR.md",
+    "Art. 23 GDPR.md",
+    "Art. 22 GDPR.md",
+    "Art. 21 GDPR.md",
     "Art. 19 GDPR.md",
-    "Art. 18 GDPR.md",
-    "Art. 16 GDPR.md",
-    "Art. 17 GDPR.md",
-    "Art. 9 GDPR.md",
-    "Art. 8 GDPR.md",
-    "Art. 7 GDPR.md",
+    "Art. 20 GDPR.md",
     "Art. 4 GDPR.md",
-    "Art. 3 GDPR.md",
-    "Art. 20 GDPR.md"
+    "Art. 18 GDPR.md"
   ]
 }
