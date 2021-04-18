@@ -1,4 +1,4 @@
-[[GDPR]] #processing #controller #joint_controllers
+[[GDPR]] #processing #controller #joint_controllers #Chapter_IV
 
 
 1. Where two or more controllers jointly determine the purposes and means of processing, they shall be joint controllers. They shall in a transparent manner determine their respective responsibilities for compliance with the obligations under this Regulation, in particular as regards the exercising of the rights of the data subject and their respective duties to provide the information referred to in [[Art. 13 GDPR]] and [[Art. 14 GDPR]], by means of an arrangement between them unless, and in so far as, the respective responsibilities of the controllers are determined by Union or Member State law to which the controllers are subject. The arrangement may designate a contact point for data subjects.

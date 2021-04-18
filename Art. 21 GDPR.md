@@ -1,4 +1,4 @@
-[[GDPR]] #personal_data #processing #profiling #controller #marketing #public_interest #information_and_society_service 
+[[GDPR]] #personal_data #processing #profiling #controller #marketing #public_interest #information_and_society_service #Chapter_III
 
 
 1. The data subject shall have the right to object, on grounds relating to his or her particular situation, at any time to processing of personal data concerning him or her which is based on point (5) or (6) of [[Art. 6 GDPR]](1), including profiling based on those provisions. The controller shall no longer process the personal data unless the controller demonstrates compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject or for the establishment, exercise or defence of legal claims.

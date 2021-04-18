@@ -1,4 +1,4 @@
-[[GDPR]]  #consent #child_data #processing  #personal_data 
+[[GDPR]]  #consent #child_data #processing  #personal_data #Chapter_II
 
 1. Where point (a) of [[Art.6 GDPR]](1) applies, in relation to the offer of information society services directly to a child, the processing of the personal data of a child shall be lawful where the child is at least 16 years old. Where the child is below the age of 16 years, such processing shall be lawful only if and to the extent that consent is given or authorised by the holder of parental responsibility over the child.  
 

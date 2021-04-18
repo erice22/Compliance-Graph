@@ -1,4 +1,4 @@
-[[GDPR]] #personal_data #controller #processing #third_party #international_organization #data_transparency #consent #supervisory_authority 
+[[GDPR]] #personal_data #controller #processing #third_party #international_organization #data_transparency #consent #supervisory_authority #Chapter_III
 
 1. The data subject shall have the right to obtain from the controller confirmation as to whether or not personal data concerning him or her are being processed, and, where that is the case, access to the personal data and the following information:
 	1. the purposes of the processing;

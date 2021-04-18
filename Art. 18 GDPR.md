@@ -1,4 +1,4 @@
-[[GDPR]] #processing #personal_data #processing_restriction #data_accuracy #public_interest #consent
+[[GDPR]] #processing #personal_data #processing_restriction #data_accuracy #public_interest #consent #Chapter_III
 
 1. The data subject shall have the right to obtain from the controller restriction of processing where one of the following applies:
 	1. the accuracy of the personal data is contested by the data subject, for a period enabling the controller to verify the accuracy of the personal data;

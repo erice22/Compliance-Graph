@@ -1,4 +1,4 @@
-[[GDPR]] #consent  #processing #personal_data 
+[[GDPR]] #consent  #processing #personal_data  #Chapter_II
 
 
 1. Where processing is based on consent, the controller shall be able to demonstrate that the data subject has consented to processing of his or her personal data.

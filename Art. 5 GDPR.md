@@ -1,4 +1,4 @@
-[[GDPR]]  #personal_data #data_minimization #controller #consent #data_accuracy
+[[GDPR]]  #personal_data #data_minimization #controller #consent #data_accuracy #Chapter_II
 
 
 1. Personal data shall be:

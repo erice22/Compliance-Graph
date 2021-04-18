@@ -1,5 +1,5 @@
 
-[[GDPR]] #controller #personal_data #child_data #data_transparency  #supervisory_authority #subject_identification 
+[[GDPR]] #controller #personal_data #child_data #data_transparency  #supervisory_authority #subject_identification #Chapter_III
 
 1. The controller shall take appropriate measures to provide any information referred to in [[Art. 13 GDPR]] and [[Art. 14 GDPR]] and any communication under [[Art. 15 GDPR]] to [[Art. 22 GDPR]]  and [[Art. 34 GDPR]] relating to processing to the data subject in a concise, transparent, intelligible and easily accessible form, using clear and plain language, in particular for any information addressed specifically to a child. The information shall be provided in writing, or by other means, including, where appropriate, by electronic means. When requested by the data subject, the information may be provided orally, provided that the identity of the data subject is proven by other means.
 

@@ -1,4 +1,5 @@
-[[GDPR]] #personal_data #controller #public_interest #national_security #defense #public_security 
+[[GDPR]] #personal_data #controller #public_interest #national_security #defense #public_security #Chapter_III 
+
 1. Union or Member State law to which the data controller or processor is subject may restrict by way of a legislative measure the scope of the obligations and rights provided for in [[Art. 12 GDPR]] to [[Art. 22 GDPR]] and [[Art. 34 GDPR]], as well as [[Art. 5 GDPR]]in so far as its provisions correspond to the rights and obligations provided for in [[Art. 12 GDPR]] to [[Art. 22 GDPR]], when such a restriction respects the essence of the fundamental rights and freedoms and is a necessary and proportionate measure in a democratic society to safeguard:
 	1.  national security	
 	2.  defence;

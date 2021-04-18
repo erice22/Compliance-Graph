@@ -1,4 +1,4 @@
-[[GDPR]] #personal_data #monitoring_behavior #goods_and_services #processing
+[[GDPR]] #personal_data #monitoring_behavior #goods_and_services #processing #Chapter_I
 
 
 1. This Regulation applies to the processing of personal data in the context of the activities of an establishment of a controller or a processor in the Union, regardless of whether the processing takes place in the Union or not.

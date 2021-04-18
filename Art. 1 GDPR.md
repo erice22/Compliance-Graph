@@ -1,4 +1,4 @@
-[[GDPR]] #personal_data  #processing
+[[GDPR]] #personal_data  #processing #Chapter_I
 
 
 1. This Regulation lays down rules relating to the protection of natural persons with regard to the processing of personal data and rules relating to the free movement of personal data.

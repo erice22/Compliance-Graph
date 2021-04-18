@@ -1,4 +1,4 @@
-[[GDPR]] #personal_data #consent #controller  #processing #pseudonymisation 
+[[GDPR]] #personal_data #consent #controller  #processing #pseudonymisation #special_categories #Chapter_II
 
 
 1. Processing shall be lawful only if and to the extent that at least one of the following applies:

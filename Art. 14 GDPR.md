@@ -1,4 +1,4 @@
-[[GDPR]] #personal_data #controller #data_protection_officer #processing #third_party #international_organization #data_transparency #consent 
+[[GDPR]] #personal_data #controller #data_protection_officer #processing #third_party #international_organization #data_transparency #consent  #Chapter_III
 
 1. Where personal data have not been obtained from the data subject, the controller shall provide the data subject with the following information:
 

@@ -1,4 +1,4 @@
-[[GDPR]] #personal_data #processing 
+[[GDPR]] #personal_data #processing #Chapter_I
 
 
 1. This Regulation applies to the processing of personal data wholly or partly by automated means and to the processing other than by automated means of personal data which form part of a filing system or are intended to form part of a filing system.

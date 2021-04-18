@@ -1,4 +1,4 @@
-[[GDPR]] #genetic_data  #biometric_data #personal_data #consent #processing #public_health #public_interest #medical_processing
+[[GDPR]] #genetic_data  #biometric_data #personal_data #consent #processing #public_health #public_interest #medical_processing #Chapter_II
 1. Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation shall be prohibited.
 
 2. Paragraph 1 shall not apply if one of the following applies:
