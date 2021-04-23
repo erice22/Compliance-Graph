@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Art. 38 GDPR.md",
+            "file": "T5.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art. 38 GDPR.md",
+                "file": "T5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "d9ad884c0fe1ef65",
   "lastOpenFiles": [
-    "Art. 38 GDPR.md",
-    "Art. 37 GDPR.md",
-    "Art. 36 GDPR.md",
-    "Art. 34 GDPR.md",
-    "Art. 35 GDPR.md",
-    "Art. 32 GDPR.md",
-    "Art. 31 GDPR.md",
-    "Art. 33 GDPR.md",
-    "Art. 30 GDPR.md",
-    "Art. 29 GDPR.md"
+    "T5.md",
+    "T7.md",
+    "T9.md",
+    "T15.md",
+    "T17.md",
+    "T21.md",
+    "T23.md",
+    "T27.md",
+    "T31.md",
+    "T33.md"
   ]
 }

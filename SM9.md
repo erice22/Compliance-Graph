@@ -1,0 +1,7 @@
+[[BSIMM]] #governance #strategy_and_metrics
+**[SM1.4: 117] Implement lifecycle governance.**
+
+
+The software security process includes conditions for release (such as gates, checkpoints, guardrails, milestones, etc.) at one or more points in a software lifecycle. The first two steps toward establishing security-specific release conditions are to identify locations that are compatible with existing development practices and to then begin gathering the input necessary to make a go/no-go decision, such as risk ranking thresholds or defect data. Importantly, the conditions might not be verified at this stage. For example, the SSG can collect security testing results for each project prior to release, then provide their informed opinion on what constitutes sufficient testing or acceptable test results without trying to stop a project from moving forward. In CI/CD environments, shorter release cycles often require creative approaches to collecting the right evidence and rely heavily on automation. The idea of defining governance checks in the process first and enforcing them later is extremely helpful in moving development toward software security without major pain (see [SM2.2 Verify release conditions with measurements and track exceptions]). Socializing the conditions and then verifying them once most projects already know how to succeed is a gradual approach that can motivate good behavior without requiring it.
+
+

@@ -1,0 +1,7 @@
+[[BSIMM]] #intelligence #feature_design
+**[SFD2.2: 51] Create capability to solve difficult design problems.**
+
+
+The SSG contributes to building resilient architectures by solving design problems unaddressed by organizational security components or services, or by cloud service providers, thus minimizing the negative impact that security has on other constraints (e.g., feature velocity). Involving the SSG in the design of a new protocol, microservice, or architecture decision (e.g., containerization) enables timely analysis of the security implications of existing defenses and identifies elements that should be refactored, duplicated, or avoided. Likewise, having a security architect understand the security implications of moving a seemingly well-understood application to the cloud saves a lot of headaches later. Designing for security up front is more efficient than analyzing an existing design for security and refactoring when flaws are uncovered, so the SSG should be involved early in the new project process. The SSG could also get involved in what could have historically been purely engineering discussions, as even rudimentary (e.g., “Hello, world!”) use of cloud-native technologies requires configurations and other capabilities that have direct implications on security posture. Note that some design problems will require specific expertise outside of the SSG: even the best expert can’t scale to cover the needs of an entire software portfolio.
+
+

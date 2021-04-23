@@ -1,0 +1,7 @@
+[[BSIMM]] #SSDL #architecture_analysis
+**[AA1.1: 114] Perform security feature review.**
+
+
+When getting started in architecture analysis, organizations center the process on a review of security features. Security-aware reviewers identify the security features in an application and its deployment configuration (authentication, access control, use of cryptography, etc.), and then inspect the design and runtime parameters for problems that would cause these features to fail at their purpose or otherwise prove insufficient. For example, this kind of review would identify both a system that was subject to escalation of privilege attacks because of broken access control as well as a mobile application that incorrectly put PII in local storage. In some cases, use of the firm’s secure-by-design components can streamline this process (see [SFD2.1 Leverage secure-by-design components and services]). Many modern applications are no longer simply “3-tier” but instead involve components architected to interact across a variety of tiers: browser/endpoint, embedded, web, third-party SaaS, and so on. Some of these environments might provide robust security feature sets, whereas others might have key capability gaps that require careful consideration, so organizations are not just considering the applicability and correct use of security features in one tier of the application but across all tiers that constitute the architecture and operational environment.
+
+
