@@ -7,8 +7,11 @@
         "id": "d9ad884c0fe1ef65",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Nodes/AA9.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#main_establishment",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nodes/AA9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +99,8 @@
   },
   "active": "d9ad884c0fe1ef65",
   "lastOpenFiles": [
+    "Nodes/AA9.md",
+    "Nodes/AA5.md",
     "Art. 4 GDPR.md",
     "Art. 27 GDPR.md",
     "T5.md",
@@ -103,8 +108,6 @@
     "T9.md",
     "T15.md",
     "T17.md",
-    "T21.md",
-    "T23.md",
-    "T27.md"
+    "T21.md"
   ]
 }
