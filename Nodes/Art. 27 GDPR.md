@@ -1,5 +1,5 @@
 
-[[GDPR]] #criminal_data  #special_categories #processing #representative #Chapter_IV
+[[GDPR]] #criminal_data  #special_categories #processing #Chapter_IV
 
 1. Where [[Art. 3 GDPR]](2) applies, the controller or the processor shall designate in writing a representative in the Union.
 

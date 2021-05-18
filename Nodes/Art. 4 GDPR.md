@@ -1,4 +1,4 @@
-[[GDPR]] #personal_data #processing #profiling #pseudonymisation #consent #restriction_of_processing #controller #third_party #personal_data_breach #genetic_data #biometric_data #data_concerning_health #main_establishment #enterprise  #supervisory_authority #cross-border_processing #information_and_society_service #international_organization #Chapter_I
+[[GDPR]] #personal_data #processing #profiling #pseudonymisation #consent #restriction_of_processing #controller #third_party #personal_data_breach #genetic_data #biometric_data #data_concerning_health #enterprise  #supervisory_authority #cross-border_processing #information_and_society_service #international_organization #Chapter_I
 
 For the purposes of this Regulation:
 

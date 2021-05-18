@@ -25,6 +25,6 @@ def scrape(tag_name, class_name, base_url, url_addin = ""):
 
 
 def main():
-    scrape("div","component-text", "https://www.bsimm.com/framework/intelligence/security-design.html")
-
+    #scrape("div","component-text", "https://www.bsimm.com/framework/intelligence/security-design.html")
+    
 main()
